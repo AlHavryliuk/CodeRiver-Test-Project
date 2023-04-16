@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CodeRiver-Test-Project/static/css/main.c810c5dd.css",
+    "main.js": "/CodeRiver-Test-Project/static/js/main.43662bd1.js",
+    "static/media/woman.png": "/CodeRiver-Test-Project/static/media/woman.b15f3db9665359953b31.png",
+    "static/media/mountains.png": "/CodeRiver-Test-Project/static/media/mountains.707c35c370fd99921e7f.png",
+    "static/media/t-shirt.png": "/CodeRiver-Test-Project/static/media/t-shirt.b3c1bc8b21c45019cac7.png",
+    "static/media/step.png": "/CodeRiver-Test-Project/static/media/step.829753d7b784ab982b6d.png",
+    "static/media/buts.png": "/CodeRiver-Test-Project/static/media/buts.9c0ebd9cc233f0a8af01.png",
+    "static/media/mask.svg": "/CodeRiver-Test-Project/static/media/mask.b35ebafb5ccae7478d9a9f9d6b3b4bb7.svg",
+    "static/media/symbol-defs.svg": "/CodeRiver-Test-Project/static/media/symbol-defs.3d09eaba9a20a25078a83afa2dcc5e42.svg",
+    "static/media/slick.svg": "/CodeRiver-Test-Project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/CodeRiver-Test-Project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/CodeRiver-Test-Project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/CodeRiver-Test-Project/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/stroke_vector.svg": "/CodeRiver-Test-Project/static/media/stroke_vector.e74bd61e0dc4b32af1cb553c5ab7cb2c.svg",
+    "index.html": "/CodeRiver-Test-Project/index.html",
+    "main.c810c5dd.css.map": "/CodeRiver-Test-Project/static/css/main.c810c5dd.css.map",
+    "main.43662bd1.js.map": "/CodeRiver-Test-Project/static/js/main.43662bd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c810c5dd.css",
+    "static/js/main.43662bd1.js"
+  ]
+}
