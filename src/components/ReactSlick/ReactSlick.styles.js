@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { mobile, tablet } from 'utils/mixins/adaptMixins';
 
 export const CustomPhotoWrapper = styled.div``;
 
